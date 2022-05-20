@@ -2,7 +2,7 @@
 package consul
 
 import (
-	"github.com/asim/go-micro/tree/v1.18.0/registry"
+	"github.com/asim/go-micro/tree/v4.6.0/registry"
 	"github.com/Ovat1975/go-plugins/tree/master/registry/consul"
 )
 
